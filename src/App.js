@@ -7,17 +7,42 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <ul className="App-link">
+          <li>
+            <span>Github</span>
+            <br/>
+            <a href="https://github.com/akiorange/">akiorange</a>
+          </li>
+          <li>
+            <span>卒業論文</span>
+            <br/>
+            <a href="./卒業論文_麻生明央.pdf">PDF</a>
+          </li>
+          <li>
+            <span>卒論の実験用サイトのRuby on Railsアプリ</span>
+            <br/>
+            <a href="http://tesu.tk/">http://tesu.tk</a>
+            <span> : </span>
+            <a href="https://github.com/akiorange/first-rails-app/">Github repo</a>
+          </li>
+          <li>
+            <span>練習用のReactアプリ</span>
+            <br/>
+            <a href="https://akiratest.tk/">https://akiratest.tk</a>
+            <span> : </span>
+            <a href="https://github.com/akiorange/first-react-app/">Github repo</a>
+          </li>
+          <li>
+            <span>"Introduction to Computer Science" by Microsoft and Edx</span>
+            <br/>
+            <a href="https://credentials.edx.org/credentials/4a9d5ebc8e98494bb2e76fe7e5711381/">証明書</a>
+          </li>
+          <li>
+            <span>"Building Prototypes with JavaScript and Node.js" by Microsoft and Edx</span>
+            <br/>
+            <a href="https://credentials.edx.org/credentials/5c33a8e738de45bfb7e55ad5f546f14c/">証明書</a>
+          </li>
+        </ul>
       </header>
     </div>
   );

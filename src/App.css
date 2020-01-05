@@ -1,10 +1,28 @@
 .App {
-  text-align: center;
+  text-align: left;
+  color:ghostwhite;
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 10vmin;
   pointer-events: none;
+}
+
+li {
+  margin: 3vh 0;
+}
+
+a:link {
+  color:hsl(193, 95.1%, 68.4%);
+  text-decoration: none;
+}
+
+a:link:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color:rgb(139, 98, 251);
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -21,12 +39,11 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
-.App-link {
+/* .App-link {
   color: #61dafb;
-}
+} */
 
 @keyframes App-logo-spin {
   from {
