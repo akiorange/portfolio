@@ -16,7 +16,7 @@ function App() {
           <li>
             <span>卒業論文</span>
             <br/>
-            <a href="./卒業論文_麻生明央.pdf">PDF</a>
+            <a href="./thesis.pdf">PDF</a>
           </li>
           <li>
             <span>卒論の実験用サイトのRuby on Railsアプリ</span>
