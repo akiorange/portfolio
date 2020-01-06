@@ -14,6 +14,26 @@ function App() {
             <a href="https://github.com/akiorange/">akiorange</a>
           </li>
           <li>
+            <span>多摩大学</span>
+            <br/>
+            <a href="https://www.tama.ac.jp/">https://www.tama.ac.jp</a>
+          </li>
+          <li>
+            <span>ILAC(カナダの語学学校)</span>
+            <br/>
+            <a href="https://www.ilac.com/">https://www.ilac.com</a>
+          </li>
+          <li>
+            <span>"Introduction to Computer Science" by Microsoft and Edx</span>
+            <br/>
+            <a href="https://credentials.edx.org/credentials/4a9d5ebc8e98494bb2e76fe7e5711381/">証明書</a>
+          </li>
+          <li>
+            <span>"Building Prototypes with JavaScript and Node.js" by Microsoft and Edx</span>
+            <br/>
+            <a href="https://credentials.edx.org/credentials/5c33a8e738de45bfb7e55ad5f546f14c/">証明書</a>
+          </li>
+          <li>
             <span>卒業論文</span>
             <br/>
             <a href="./thesis.pdf">PDF</a>
@@ -31,16 +51,6 @@ function App() {
             <a href="https://akiratest.tk/">https://akiratest.tk</a>
             <span> : </span>
             <a href="https://github.com/akiorange/first-react-app/">Github repo</a>
-          </li>
-          <li>
-            <span>"Introduction to Computer Science" by Microsoft and Edx</span>
-            <br/>
-            <a href="https://credentials.edx.org/credentials/4a9d5ebc8e98494bb2e76fe7e5711381/">証明書</a>
-          </li>
-          <li>
-            <span>"Building Prototypes with JavaScript and Node.js" by Microsoft and Edx</span>
-            <br/>
-            <a href="https://credentials.edx.org/credentials/5c33a8e738de45bfb7e55ad5f546f14c/">証明書</a>
           </li>
         </ul>
       </header>
